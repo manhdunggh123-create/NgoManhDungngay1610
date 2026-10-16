@@ -1,0 +1,4 @@
+D:\Ltrinh.net\ngomanhdungbai1\obj\Debug\net8.0-windows\DeviceManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ltrinh.net\ngomanhdungbai1\obj\Debug\net8.0-windows\DeviceManagerApp.AssemblyInfoInputs.cache
+D:\Ltrinh.net\ngomanhdungbai1\obj\Debug\net8.0-windows\DeviceManagerApp.AssemblyInfo.cs
+D:\Ltrinh.net\ngomanhdungbai1\obj\Debug\net8.0-windows\DeviceManagerApp.csproj.CoreCompileInputs.cache

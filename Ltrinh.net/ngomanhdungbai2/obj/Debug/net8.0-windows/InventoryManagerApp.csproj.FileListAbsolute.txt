@@ -1,0 +1,14 @@
+D:\Ltrinh.net\ngomanhdungbai2\bin\Debug\net8.0-windows\InventoryManagerApp.exe
+D:\Ltrinh.net\ngomanhdungbai2\bin\Debug\net8.0-windows\InventoryManagerApp.deps.json
+D:\Ltrinh.net\ngomanhdungbai2\bin\Debug\net8.0-windows\InventoryManagerApp.runtimeconfig.json
+D:\Ltrinh.net\ngomanhdungbai2\bin\Debug\net8.0-windows\InventoryManagerApp.dll
+D:\Ltrinh.net\ngomanhdungbai2\bin\Debug\net8.0-windows\InventoryManagerApp.pdb
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.AssemblyInfoInputs.cache
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.AssemblyInfo.cs
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.csproj.CoreCompileInputs.cache
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.dll
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\refint\InventoryManagerApp.dll
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.pdb
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\InventoryManagerApp.genruntimeconfig.cache
+D:\Ltrinh.net\ngomanhdungbai2\obj\Debug\net8.0-windows\ref\InventoryManagerApp.dll
